@@ -14,7 +14,7 @@ Formação completa que visa transformar você em um desenvolvedor back-end PHP 
 
 ***Curso:*** PHP
 
-***Aula:*** Introdução a Lógica de Programação - Exercícios
+***Aula:*** Introdução ao PHP - Crud (lista de contatos)
 
 ***Professor:*** Alessandro Feitoza
 
